@@ -3,3 +3,21 @@
 ################################################################################
 
 /.vs
+# Visual Studio
+.vs/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform variable files
+*.auto.tfvars
+
+# Sensitive variables
+terraform.tfvars
+
+# IDE
+.vscode/
+
