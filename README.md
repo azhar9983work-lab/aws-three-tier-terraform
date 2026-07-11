@@ -95,5 +95,26 @@ Future enhancements
             to be filled
 
 
+future update:
+```````````````````````
+# AWS Three-Tier Architecture using Terraform
+
+## Project Overview
+
+## Business Problem
+
+## Solution
+
+## Architecture Diagram
+
+## AWS Services
+
+## Directory Structure
+
+## Deployment
+
+## Future Improvements
+
+## Cost Estimate
 
 ```
